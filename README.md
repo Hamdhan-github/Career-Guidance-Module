@@ -1,0 +1,1 @@
+I created a career guidance web page for my college community to provide valuable resources and support for student's professional developement. it is a college level mini project made by team of four members.
